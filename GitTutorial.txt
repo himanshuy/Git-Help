@@ -1,0 +1,22 @@
+Git Tutorial
+
+1. git init
+2. git status
+3. git add <filename>
+4. git commit -m "Comment" //use double quotes
+5. git add "*.txt"
+6. git remote add origin https://github.com/himanshuy/try_git.git
+7. git push -u origin master/git push -f origin <branch>
+8. git pull origin master
+9. git diff HEAD
+10. git diff --staged
+11. git reset <filename>
+12. git checkout -- octocat.txt
+13. git branch <branchName> //create branch
+14. git checkout <branchName> //switch to new branch
+15. git rm "*.txt" //removes files from local disk and remote repository
+16. git commit -m "Comment" //checkout removal of files
+17. git checkout master //switch back to master
+18. git merge <branchName>
+19. git branch -d <branchName> // deletes the branch after work is done
+20. git push //final push

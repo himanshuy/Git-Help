@@ -1,0 +1,4 @@
+Advanced Git Commands
+
+1. git stash
+	Saves half done work without commiting it to the branch.

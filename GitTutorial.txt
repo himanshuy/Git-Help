@@ -21,6 +21,10 @@ Git Tutorial
 19. git branch -d <branchName> // deletes the branch after work is done
 20. git push //final push
 
+** Revert a Checkout **
+1. git add . //to make sure all files are added
+2. git commit --amend //It opens up the checkout comment file which can be edited now.
+
 **Steps to CheckIn and Checkout**
 1. Go To Directory
 2. git checkout -b <branchName>

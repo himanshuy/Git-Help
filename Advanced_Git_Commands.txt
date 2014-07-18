@@ -1,4 +1,8 @@
 Advanced Git Commands
 
 1. git stash
-	Saves half done work without commiting it to the branch.
+   //Saves half done work without commiting it to the branch.
+2. git checkout -b "new branch name"
+   // Create new branch and swithc to it.
+3. git stash apply
+   //apply stash to new branch.

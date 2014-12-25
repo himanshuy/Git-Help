@@ -4,3 +4,7 @@
 4. git remote add origin https://github.com/himanshuy/Git-Help.git
 5. git pull origin master
 6. git push origin master
+
+Add this to .gitignore file
+.*
+!/.gitignore

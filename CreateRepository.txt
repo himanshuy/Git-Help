@@ -5,6 +5,10 @@
 5. git pull origin master
 6. git push origin master
 
-Add this to .gitignore file
+## Add this to .gitignore file
 .*
 !/.gitignore
+
+## Check for git user or email
+git config user.name
+git config user.email
